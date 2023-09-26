@@ -1,9 +1,9 @@
 ![Logo](https://hacktoberfest.com/_next/static/media/logo-hacktoberfest--horizontal.ebc5fdc8.svg)
 
-# Hacktoberfest-2023-Rest Api development
-Hacktober fest pythone challange
+# Hacktoberfest-2023- 
+## Rest Api development - Node.js Express
 
-- Create a branch with your GitHub username and continue the challenge. Visit the issue tab for your instructions.
+#### Create a branch with your GitHub username and continue the challenge. Visit the [issue](https://github.com/fossnsbm/Hacktoberfest-2023-Challenges/issues) tab for instructions.
 
 ### PARTICIPATING IN HACKTOBERFEST
 
